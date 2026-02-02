@@ -1,0 +1,2 @@
+# Requires: virtual-void
+# (Not available on PyPI)
